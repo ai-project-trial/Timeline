@@ -162,4 +162,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Material-UI for the component library
 - Vite for the build tool
-- All other open-source libraries used in this project 
+- All other open-source libraries used in this project
+
+## Screens
+![image](https://github.com/user-attachments/assets/db6d054e-6973-4b7a-bde9-afa15d0a537b)
+![image](https://github.com/user-attachments/assets/50972119-9904-4438-b786-90bd2ad028da)
+![image](https://github.com/user-attachments/assets/daed4fc4-841e-44ad-ae5f-7ea1698d98d9)
+![image](https://github.com/user-attachments/assets/0550ce02-bda6-45c3-998e-b0594bff0007)
+![image](https://github.com/user-attachments/assets/42ecefbd-2a5c-4eff-9441-17104e9d1dde)
+![image](https://github.com/user-attachments/assets/58baf4ef-8e91-48b6-942d-accaee651dd3)
+![image](https://github.com/user-attachments/assets/8f9ed233-2084-45af-9482-4c4257b94da4)
+![image](https://github.com/user-attachments/assets/03b818a0-1679-4dd9-be1a-a9e1d2eaf397)
+![image](https://github.com/user-attachments/assets/8ffb4083-e81d-49b0-81b0-cb2d6375af0b)
+![image](https://github.com/user-attachments/assets/4d8ba823-bc38-4c16-96cd-cd9e0f730618)
+![image](https://github.com/user-attachments/assets/b6b34125-4873-442f-806d-4e9a35a9b832)
+![image](https://github.com/user-attachments/assets/2441be83-5037-4a97-8e3d-423a97e7350a)
